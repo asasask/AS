@@ -3,7 +3,7 @@
  var a = parseInt(document.getElementById("id名称").value)
  if(a,b > String || a,b < String || isNaN(a,b)){ 
      
- alert("number");
+ alert("please enter a number");
  document.getElementById('id名称').value = ""; }
  var b=document.getElementById ("test").value
  var demoP=document.getElementById("demo"); 
